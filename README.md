@@ -1,6 +1,4 @@
-# Domicilio Boilerplate
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/928e6869-c807-4fae-9168-9e556e67bf00/deploy-status)](https://app.netlify.com/sites/ferraradomicilio/deploys)
+# parmaDomicilio
 
 > If you want to make the same proj for your city, the only thing I ask is to fork the [main repo](https://github.com/tomma5o/ferraraDomicilio) to make it yours.
 > Thanks!
@@ -15,13 +13,13 @@
 ## Data source
 
 All the data are fetched from this gist:
-https://gist.githubusercontent.com/tomma5o/1ca63d091b01a2fa6a73a17cc86b8fe6/raw/FerraraDomicilio.json
+https://gist.githubusercontent.com/montali/5d3e9f0bf23733e515ecd50c2debfb40/raw/parmaDomicilio.json
 
 When you add your gist url remember to delete the last hash because points directly to a specific commit, otherwise you would get an outdated version, so for example:
 
 ```
 remove the second hash ------------------------------------┐
-                                                         
+
 https://gist.githubusercontent.com/tomma5o/<hash>/raw/<removeThisHash>/FerraraDomicilio.json
 ```
 
@@ -32,9 +30,9 @@ https://gist.githubusercontent.com/tomma5o/<hash>/raw/<removeThisHash>/FerraraDo
 ### Deploy configuration steps
 
 1. Connect your GitHub account to Netlify
-3. Select the project
-2. In Settings → Build & Deploy → Set **Build command** to : **_npm run build_**
-3. In Settings → Build & Deploy → Set **Publish directory** to : **_build_**
+2. Select the project
+3. In Settings → Build & Deploy → Set **Build command** to : **_npm run build_**
+4. In Settings → Build & Deploy → Set **Publish directory** to : **_build_**
 
 ### Google analytics setup
 
@@ -46,7 +44,7 @@ In **Form** you can find all the submissions.<br>There are two type of submissio
 
 ## CLI Commands
 
-``` bash
+```bash
 # install dependencies
 npm install
 
