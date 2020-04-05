@@ -85,7 +85,7 @@ export default class Home extends Component {
                      class="text-orange-500"
                      href={process.env.PREACT_APP_DEV_LINK}
                   >
-                     {process.env.PREACT_APP_DEV_NAME}
+                      {process.env.PREACT_APP_DEV_NAME}
                   </a>
                </p>
                <p class="mb-5">
