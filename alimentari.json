@@ -1,0 +1,188 @@
+{
+   "Alimentari": {
+      "icon": "🛒",
+      "data": [
+         { "name": "Alimentari Marchesi", "tel": "0521 963904" },
+         { "name": "Antica bottega Zannoni", "tel": "0521 25227" },
+         { "name": "Bacovia Alimentari", "tel": "0521 1651118" },
+         {
+            "name": "Biocelia Parma - Gluten free e intolleranze",
+            "tel": "0521 1800794"
+         },
+         { "name": "Boutique della carne", "tel": "0521 641478" },
+         { "name": "Casa del Biscotto", "tel": "0521 236710" },
+         {
+            "name": "Caseificio Ugolotti",
+            "tel": ["0521 486769", " 338 3947894"]
+         },
+         { "name": "Cioccot\u00e8ca di Tentazioni", "tel": "349 9823464" },
+         { "name": "Di Origine Italiana", "tel": "338 4453166" },
+         {
+            "name": "Da Paola - Salumeria macelleria di maiale",
+            "tel": "0521 239537"
+         },
+         { "name": "Divagusto", "tel": "347 8069596" },
+         { "name": "drogheria Dalla A allo Zucchero", "tel": "347 2456200" },
+         { "name": "Drogheria di una volta", "tel": "347 8948692" },
+         { "name": "Drogheria Viani Andrea", "tel": "0521 285397" },
+         { "name": "Enoitalia", "tel": ["0521 463208", " 393 9422484"] },
+         { "name": "Enoteca Medici di Medici Angelo", "tel": "0521 240362" },
+         {
+            "name": "Franzoni Fabrizio frutta e verdura",
+            "tel": ["0521 963590", " 339 6787347"]
+         },
+         {
+            "name": "Golese Ortofrutta",
+            "tel": ["0521 1550538", " 347 6456044"]
+         },
+         {
+            "name": "La Bottega del Gusto dei Fratelli Davoli",
+            "tel": "0521 786918"
+         },
+         { "name": "La Bottega di Vicofertile", "tel": "338 3279770" },
+         { "name": "La Cantina della carne", "tel": "0521 289567" },
+         { "name": "La Cantina di Fausto", "tel": "328 0541156" },
+         { "name": "La Dispensa", "tel": "0521 963895" },
+         { "name": "La Dolceria Zanlari", "tel": "0521 988949" },
+         { "name": "La Macelleria Romani", "tel": "0521 988274" },
+         { "name": "La Magia della Frutta", "tel": "0521 968414" },
+         {
+            "name": "Macelleria Entrecote",
+            "tel": ["0521 285161", " 349 6391557"]
+         },
+         {
+            "name": "Macelleria Mantovani",
+            "tel": ["0521 283006", " 339 6741283"]
+         },
+         { "name": "Macelleria Olga", "tel": "0521 282827" },
+         {
+            "name": "Macelleria Salumeria Paolo e Giacomo",
+            "tel": "0521 285677"
+         },
+         { "name": "Natura & Sapori", "tel": "328 5578808" },
+         { "name": "Nautilus Sea Food", "tel": "0521 246511" },
+         { "name": "Ortofrutta Mattalini", "tel": "370 3535956" },
+         {
+            "name": "Ortofrutta Molinetto",
+            "tel": ["0521 985213", " 333 5394777"]
+         },
+         { "name": "OsterEia di Eia", "tel": "338 5035098" },
+         { "name": "Panetteria Pandizenzero", "tel": "324 8854853" },
+         { "name": "Pastificio Michele", "tel": "342 8005394" },
+         {
+            "name": "Salumeria La Baita dei Salumi",
+            "tel": ["0521 941080", " 349 0615269"]
+         },
+         { "name": "Salumeria Macelleria Nadotti", "tel": "0521 243258" },
+         { "name": "Somyfruit", "tel": ["320 8118831", " 0521 1650721"] },
+         {
+            "name": "Verosapore - la bottega del contadino",
+            "tel": "340 6851559"
+         },
+         { "name": "Zabo Formaggi s.r.l.", "tel": "0521 649211" },
+         {
+            "name": "Sapori della Puglia",
+            "tel": "370 3742051"
+         },
+         {
+            "name": "Drogheria Pedrelli",
+            "tel": "0521 253894"
+         },
+         {
+            "name": "Baschieri Fratelli s.r.l.",
+            "tel": "0521 671747"
+         },
+         {
+            "name": "Caseificio San Pier Damiani",
+            "tel": "0521 645181"
+         },
+         {
+            "name": "Caseificio Ugolotti",
+            "tel": ["0521 486769", " 338 3947894"]
+         }
+      ]
+   },
+   "Bevande": {
+      "icon": "🍷",
+      "data": [
+         { "name": "Cavazzini SPA", "tel": "0521 487754" },
+         { "name": "Mineral Birra srl", "tel": "0521 272481" },
+         { "name": "Parmavini", "tel": "0521 648764" },
+         {
+            "name": "Pribar s.r.l. - Il Bere Alto",
+            "tel": ["366 3215677", " 348 3665755"]
+         }
+      ]
+   },
+   "Gastronomie": {
+      "icon": "👨🏻‍🍳",
+
+      "data": [
+         {
+            "name": "Bottega e Cucina - Gastronomia Parmigiana",
+            "tel": ["349 8016405", " 0521 714236"]
+         },
+         { "name": "Casa Del Formaggio", "tel": "0521 230243" },
+         { "name": "Da Giovanni", "tel": "0521 483030" },
+         {
+            "name": "Festa di Rapa - gastronomia vegetariana e vegana",
+            "tel": "0521 1402018"
+         },
+         {
+            "name": "Gastro Bar sapori di casa",
+            "tel": ["349 2416548", " 347 9928556"]
+         },
+         {
+            "name": "Gastromania - Pasta Fresca dell'Arco",
+            "tel": "0521 487509"
+         },
+         { "name": "Gastronomia Ajolfi", "tel": "0521 975106" },
+         { "name": "Gastronomia Orlandini", "tel": "0521 1759510" },
+         { "name": "Greci Giancarlo & C snc", "tel": "0521 645150" },
+         { "name": "I Du Rezdor", "tel": "346 4921929" },
+         { "name": "La Prosciutteria", "tel": "0521 234188" },
+         { "name": "La Rocca di Romani", "tel": "0521 244381" },
+         { "name": "La Salumeria Verdi", "tel": "0521 208100" },
+         { "name": "La San Leo srl", "tel": "0521 1551753" },
+         { "name": "Le Buone Mani", "tel": "338 9697202" },
+         {
+            "name": "Officina Gastronomica",
+            "tel": ["0521 967327", " 333 6185739"]
+         },
+         {
+            "name": "Salumeria Garibaldi - gastronomia parmigiana",
+            "tel": "0521 235606"
+         },
+         { "name": "Salumeria Gastronomia Poletti", "tel": "0521 487746" },
+         { "name": "Tuttisapori di Parma - Gastronomia", "tel": "0521 966093" }
+      ]
+   },
+   "Panetterie": {
+      "icon": "🥖",
+      "data": [
+         {
+            "name": "Forno Ducale S.n.c. - panificio Biologico certificato",
+            "tel": ["0521 284029", " 331 1396287"]
+         },
+         { "name": "Panetteria Anna", "tel": "0521 239038" },
+         {
+            "name": "Panetteria Gradellini di Ferro Eugenio",
+            "tel": "0521 234457"
+         },
+         { "name": "Panificio 10 - p.le Pablo", "tel": "0521 1552270" },
+         { "name": "Panificio 10 - strada Baganzola", "tel": "0521 601754" },
+         { "name": "Panificio 10 - via Solari", "tel": "0521 252100" },
+         { "name": "Panificio 10 - via trento", "tel": "0521 1556446" },
+         { "name": "Panificio Centrale", "tel": "0521 284318" },
+         {
+            "name": "Panificio Vicomero",
+            "tel": "348 5173530"
+         }
+      ]
+   },
+   "Torrefazioni": {
+      "icon": "☕️",
+
+      "data": [{ "name": "Torrefazione Pelco", "tel": "340 3454095" }]
+   }
+}
